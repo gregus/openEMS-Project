@@ -12,4 +12,5 @@ Instructions how to install the **openEMS Project** and its dependencies.
    requirements
    clone-build-install
    package
+   wheels
    check

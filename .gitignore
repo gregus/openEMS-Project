@@ -6,6 +6,7 @@ build/
 build_*.log
 localConfig.cmake
 *.tar.bz2
+wheelhouse/
 
 !doc-src
 doc-src/_build
